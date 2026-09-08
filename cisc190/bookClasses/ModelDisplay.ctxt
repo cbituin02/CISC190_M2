@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ModelDisplay
+comment0.text=\r\n\ Interface\ to\ used\ to\ communicate\ between\ a\ model\r\n\ and\ its\ display\r\n\ \r\n\ Copyright\ Georgia\ Institute\ of\ Technology\ 2004\r\n\ @author\ Barb\ Ericson\ ericson@cc.gatech.edu\r\n
+comment1.params=
+comment1.target=void\ modelChanged()
+comment1.text=\ method\ to\ notify\ the\ thing\ that\ displays\ that\r\nthe\ model\ has\ changed
+comment2.params=model
+comment2.target=void\ addModel(java.lang.Object)
+comment2.text=\ method\ to\ add\ the\ model\ to\ the\ world\ \r\n@param\ model\ the\ model\ object\ to\ add
+comment3.params=model
+comment3.target=void\ remove(java.lang.Object)
+comment3.text=\ \r\n\ Method\ to\ remove\ the\ model\ from\ the\ world\r\n@param\ model\ the\ model\ object\ to\ remove
+comment4.params=
+comment4.target=java.awt.Graphics\ getGraphics()
+comment4.text=\r\n\ Method\ that\ returns\ the\ graphics\ context\r\n\ for\ this\ model\ display\r\n\ @return\ the\ graphics\ context\ \r\n
+comment5.params=
+comment5.target=void\ clearBackground()
+comment5.text=\r\n\ Method\ to\ clear\ the\ background\r\n
+comment6.params=
+comment6.target=int\ getWidth()
+comment6.text=\ Method\ to\ get\ the\ width\ of\ the\ display\r\n\ @return\ the\ width\ in\ pixels\ of\ the\ display\r\n
+comment7.params=
+comment7.target=int\ getHeight()
+comment7.text=\ Method\ to\ get\ the\ height\ of\ the\ display\r\n\ @return\ the\ height\ in\ pixels\ of\ the\ display\r\n
+numComments=8

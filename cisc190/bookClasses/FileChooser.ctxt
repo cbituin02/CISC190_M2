@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FileChooser
+comment0.text=\r\n\ A\ class\ to\ make\ working\ with\ a\ file\ chooser\ easier\r\n\ for\ students.\ \ It\ uses\ a\ JFileChooser\ to\ let\ the\ user\r\n\ pick\ a\ file\ and\ returns\ the\ choosen\ file\ name.\r\n\ \r\n\ Copyright\ Georgia\ Institute\ of\ Technology\ 2004\r\n\ @author\ Barb\ Ericson\ ericson@cc.gatech.edu\r\n
+comment1.params=fileChooser
+comment1.target=java.lang.String\ pickPath(javax.swing.JFileChooser)
+comment1.text=\r\n\ Method\ to\ pick\ an\ item\ using\ the\ file\ chooser\r\n\ @param\ fileChooser\ the\ file\ Chooser\ to\ use\r\n\ @return\ the\ path\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ pickAFile()
+comment2.text=\r\n\ Method\ to\ let\ the\ user\ pick\ a\ file\ and\ return\r\n\ the\ full\ file\ name\ as\ a\ string.\ \ If\ the\ user\ didn't\ \r\n\ pick\ a\ file\ then\ the\ file\ name\ will\ be\ null.\r\n\ @return\ the\ full\ file\ name\ of\ the\ picked\ file\ or\ null\r\n
+comment3.params=
+comment3.target=java.lang.String\ pickADirectory()
+comment3.text=\r\n\ Method\ to\ let\ the\ user\ pick\ a\ directory\ and\ return\r\n\ the\ full\ path\ name\ as\ a\ string.\ \r\n\ @return\ the\ full\ directory\ path\r\n
+comment4.params=fileName
+comment4.target=java.lang.String\ getMediaPath(java.lang.String)
+comment4.text=\r\n\ Method\ to\ get\ the\ full\ path\ for\ the\ passed\ file\ name\r\n\ @param\ fileName\ the\ name\ of\ a\ file\r\n\ @return\ the\ full\ path\ for\ the\ file\r\n
+comment5.params=
+comment5.target=java.lang.String\ getMediaDirectory()
+comment5.text=\r\n\ Method\ to\ get\ the\ directory\ for\ the\ media\r\n\ @return\ the\ media\ directory\r\n
+comment6.params=directory
+comment6.target=void\ setMediaPath(java.lang.String)
+comment6.text=\r\n\ Method\ to\ set\ the\ media\ path\ by\ setting\ the\ directory\ to\ use\r\n\ @param\ directory\ the\ directory\ to\ use\ for\ the\ media\ path\r\n
+comment7.params=
+comment7.target=void\ pickMediaPath()
+comment7.text=\r\n\ Method\ to\ pick\ a\ media\ path\ using\r\n\ the\ file\ chooser\ and\ set\ it\ \r\n
+numComments=8

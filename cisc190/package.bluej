@@ -1,0 +1,26 @@
+#BlueJ package file
+objectbench.height=103
+objectbench.width=460
+package.divider.horizontal=0.5994865211810013
+package.divider.vertical=0.7981651376146789
+package.editor.height=428
+package.editor.width=685
+package.editor.x=491
+package.editor.y=197
+package.frame.height=645
+package.frame.width=815
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+readme.height=60
+readme.name=@README
+readme.width=49
+readme.x=10
+readme.y=10
+target1.height=62
+target1.name=bookClasses
+target1.type=PackageTarget
+target1.width=90
+target1.x=190
+target1.y=10

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PathSegment
+comment0.text=\r\n\ This\ class\ represents\ a\ displayable\ path\ segment\r\n\ it\ has\ a\ color,\ width,\ and\ a\ Line2D\ object\r\n\ Copyright\ Georgia\ Institute\ of\ Technology\ 2005\r\n\ @author\ Barb\ Ericson\ ericson@cc.gatech.edu\r\n
+comment1.params=theColor\ theWidth\ theLine
+comment1.target=PathSegment(java.awt.Color,\ int,\ java.awt.geom.Line2D.Float)
+comment1.text=\r\n\ Constructor\ that\ takes\ the\ color,\ width,\ \r\n\ and\ line\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\ Method\ to\ paint\ this\ path\ segment\r\n\ @param\ g\ the\ graphics\ context\r\n
+numComments=3
